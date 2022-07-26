@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App{
+  width: 70%;
+  margin:auto;
+}
+.main_heading {
+  text-align: center;
+  text-transform: capitalize;
+  padding-top: 30px;
+}
+.btn_color{
+  border:none;
+  border-radius: 8px;
+  color:#fff;
+  background-color: #224f61;
+  padding: 8px;
+}
+.btn_color:hover{
+  color:rgb(148,148,168)
+  
+}
